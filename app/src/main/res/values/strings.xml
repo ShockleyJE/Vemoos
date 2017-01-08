@@ -1,0 +1,16 @@
+<resources>
+    <!--global-->
+    <string name="app_name">Vemoos</string>
+
+    <!--Welcome screen-->
+    <string name="activity_welcome_text">Going somewhere?</string>
+    <string name="activity_welcome_find_ride_text">Find A Ride</string>
+    <string name="activity_welcome_offer_ride_text">Offer A Ride</string>
+    <string name="title_activity_find_ride">FindRideActivity</string>
+    
+    <!--Find ride-->
+    <string name="activity_find_ride_leaving_from">Leaving from...</string>
+    <string name="activity_find_ride_going_to">Going to...</string>
+    <string name="activity_find_ride_find_ride_button">Find a ride</string>
+
+</resources>
